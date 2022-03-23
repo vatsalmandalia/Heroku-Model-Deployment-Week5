@@ -17,4 +17,6 @@ This repository contains the necessary files like model.pickle, app.py, requirem
 
 **led.csv** - This is the dataset from WHO being used for the model-building.
 
-The final file is a pdf 'Week 5 - API and Cloud based Deployment.pdf' which contains the step-by-step process of the deployment of the Life Expectancy Prediction end-to-end model on the open source cloud platform called Heroku.
+**Week 5 - API and Cloud based Deployment.pdf** - This pdf contains step-by-step process of the deployment of the Life Expectancy Prediction end-to-end model on the open source cloud platform called Heroku.
+
+**Model Deployment on Flask.pdf** - This pdf shows the steps of creating a Flass application and how to deploy an end-to-end model (like the Life Expectancy Prediction model) on the app.
